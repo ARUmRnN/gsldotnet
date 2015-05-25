@@ -1,0 +1,1 @@
+GSL.NET is a C# wrapper for the GNU Scientific Library (GSL). The GNU Scientific Library is a collection of routines for numerical computing.
